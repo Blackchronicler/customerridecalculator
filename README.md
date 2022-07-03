@@ -1,7 +1,7 @@
 # customerridecalculator
 
 **GOAL**
-  Building an application which enables user to calculate the cost for renting a scooter
+- Building an application which enables user to calculate the cost for renting a scooter
 
 **Milestones**
 - Phase one: interaction with user through the console
